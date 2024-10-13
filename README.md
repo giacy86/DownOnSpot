@@ -41,7 +41,7 @@
    The `settings.json` file is located in the following directories:
 
    - Windows: `C:\Users\<user>\AppData\Roaming\down_on_spot\settings.json`
-   - Unix: `~/.config/down_on_spot/settings.json`
+   - Unix/macOS: `~/.config/down_on_spot/settings.json`
 
 🎉 Now you can use DownOnSpot
 
